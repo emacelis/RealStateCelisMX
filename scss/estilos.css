@@ -829,7 +829,7 @@ button:hover {
     font-size: 25section-indexpx;
   }
   .servicios {
-    height: 420vh;
+    height: 620vh;
   }
   .servicios  h6, .servicios p{
     font-size: .55rem;
@@ -920,7 +920,7 @@ button:hover {
     height: 100vh;
   }
   .servicios {
-    height: 730vh;
+    height: 860vh;
   }
   .servicios  h6, .servicios p{
     font-size: 1rem;
